@@ -1,10 +1,10 @@
 let name = 'hank'
-let age = 40
-let lastName = 'hill'
-function isFather(){
+let salary = 40
+let lastName = 'Williams'
+function isFather() {
     return true
 }
-function isOld(){
-    if (age > 25) return true
+function isRich() {
+    if (salary > 22) return true
     return false
 }
