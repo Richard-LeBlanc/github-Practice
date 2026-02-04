@@ -1,3 +1,3 @@
 let newBranch = true
 let newDevFeature = "Green"
-let newMainFeature = "lol"
+let newMainFeature = "lmao"
