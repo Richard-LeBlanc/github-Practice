@@ -1,2 +1,3 @@
 let newBranch = true
-let newDevFeature = "Blue"
+let newDevFeature = "Green"
+let newMainFeature = "Blue"
